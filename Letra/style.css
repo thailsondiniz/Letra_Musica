@@ -1,0 +1,49 @@
+body {
+    background: #282a36;
+}
+
+.form-control {
+    width: 300px;
+}
+
+.container {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 350px;
+    height: 310px;
+}
+
+.botao {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    position: relative;
+    top: 10px;
+}
+
+.btn-primary {
+    width: 100px;
+    height: 40px;
+    border-radius: 8px;
+}
+
+h1 {
+    text-align: center;
+    color: #fff;
+}
+
+.exibir {
+    position: relative;
+    top: 50px;
+    text-align: center;
+}
+
+.form_group {
+    padding: 10px;
+}
+
+.texto {
+    color: #f8f8f2;
+}
